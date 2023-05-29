@@ -2,6 +2,8 @@
 Приложение создано в качестве тестового задания с использованием ReactJs+Node.js(express.js)+MongoDB<br />
 The application was created as a test task using ReactJS+Node.js(express.js)+MongoDB<br />
 
+файл .env присутствует в репозитории только потому что это тестовое задание, в реальных проеэктах такие вещи конечно же не должны попадать в общий доступ
+
 # copying
 для копирования репозитория используйте команду "git clone"<br />
 to copy the repository, use the "git clone" command<br />
