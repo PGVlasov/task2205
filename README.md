@@ -39,7 +39,8 @@ After that, you will be taken to a page with all users except the authorized one
 посмотреть его данные, отредактировать пароль, имя или фотография или удалить аккаунт
 You can also go to the account page of an authorized user,
 view his data, edit the password, name or photo, or delete the account
-![accaunt](https://github.com/PGVlasov/task2205/assets/47336018/497be033-9ad1-431e-876e-56750805be3d)
+![accaunt](https://github.com/PGVlasov/task2205/assets/47336018/e7214fc3-3589-4575-aae0-8903ba42b759)
+
 
 
 
